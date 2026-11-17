@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0b1baf9-3823-4df4-95d7-666a2c86d2eb" />
+
 # 📱 QR Code Generator Using Python
 
 ✨ **Generate QR codes for any website URL in just a few clicks!**
